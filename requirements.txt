@@ -1,5 +1,4 @@
 cryptography==1.2.3
--e git+https://github.com/aracz/Python.git@b7268690a7365b2cba6cf02cc382040e8948b66a#egg=csiribu&subdirectory=WEB/csiribu
 defer==1.0.6
 feedparser==5.1.3
 Flask==0.12
