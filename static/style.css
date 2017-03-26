@@ -1,0 +1,16 @@
+body {
+    background-image: url('background.jpg');
+}
+
+h1 {
+    font-size: 4em;
+    font-family: "Anton", sans-serif;
+    color: #f4df42;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.modal-dialog {
+    width: 70%;
+}
+
