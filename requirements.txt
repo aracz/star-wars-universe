@@ -38,6 +38,5 @@ virtualenv==15.1.0
 webcolors==1.7
 Werkzeug==0.11.15
 WTForms==2.1
-xdiagnose==3.8.4.1
 xkit==0.0.0
 XlsxWriter==0.7.3
