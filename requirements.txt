@@ -35,6 +35,6 @@ six==1.10.0
 urllib3==1.13.1
 virtualenv==15.1.0
 webcolors==1.7
-Werkzeug==0.11.15
+Werkzeug==0.15.3
 WTForms==2.1
 XlsxWriter==0.7.3
