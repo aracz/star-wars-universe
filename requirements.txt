@@ -32,7 +32,7 @@ reportlab==3.3.0
 requests==2.9.1
 simplejson==3.10.0
 six==1.10.0
-urllib3==1.13.1
+urllib3==1.26.5
 virtualenv==15.1.0
 webcolors==1.7
 Werkzeug==0.11.15
