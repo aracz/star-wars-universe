@@ -12,7 +12,7 @@ idna==2.0
 itsdangerous==0.24
 Jinja2==2.9.5
 lxml==3.5.0
-Mako==1.0.3
+Mako==1.2.2
 MarkupSafe==0.23
 oauthlib==1.0.3
 padme==1.1.1
